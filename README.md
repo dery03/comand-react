@@ -1,2 +1,2 @@
-# Toll-G
+# Toll-G.py
 Termux.id
